@@ -10,4 +10,4 @@
 7. An empty date parameter should return the current time in a JSON object with a `unix` key
 8. An empty date parameter should return the current time in a JSON object with a `utc` key
 
-## JavaScript Date()
+## [JavaScript Date()](https://www.w3schools.com/js/js_date_formats.asp)
